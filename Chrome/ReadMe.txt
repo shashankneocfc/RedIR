@@ -1,0 +1,1 @@
+This consists of code of the Chrome plugin created by us.
